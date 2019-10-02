@@ -9,6 +9,7 @@
 ![4](https://github.com/dddder4/Website-Demo/blob/master/examples/2019-10-02%2021-28-57%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)  
 ### 结合数据库mysql能注册/登陆/退出
 ### 课程和课程的章节都是读取数据库然后自动展示的
+前端用axios向后段请求数据，v-for循环创建li  
 只要在/myproject/src/components/course下准备好课程文件和在数据库录入信息就行  
 ![5](https://github.com/dddder4/Website-Demo/blob/master/examples/2019-10-02%2021-30-35%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)  
 ![6](https://github.com/dddder4/Website-Demo/blob/master/examples/2019-10-02%2021-30-48%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)  
